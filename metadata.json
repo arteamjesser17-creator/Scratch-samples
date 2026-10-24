@@ -1,0 +1,6 @@
+{
+  "name": "ScratchMaster AI — 5-Day Coding Challenge",
+  "description": "Interactive 5-day Scratch coding platform featuring 15 comprehensive tasks, .sb3 project static analysis, server-side Gemini AI grading, and teacher moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
